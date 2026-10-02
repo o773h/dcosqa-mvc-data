@@ -1,0 +1,9 @@
+# Reference validation environment for this package. The degree-bin
+# assignment is independent of pandas quantile behavior (verified under
+# pandas 2.3.3 and 3.0.3); these versions document the environment used
+# for the reference validation runs.
+networkx==3.6.1
+pandas==3.0.3
+numpy==2.5.1
+scipy==1.18.0
+matplotlib>=3.8

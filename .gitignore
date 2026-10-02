@@ -1,0 +1,11 @@
+.DS_Store
+__MACOSX/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.zip
+*.tar.gz
+
+# Distributed in the versioned release archive rather than Git history.
+code/supp_embedding_seed_sensitivity/raw/raw_solutions.csv

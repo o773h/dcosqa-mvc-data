@@ -1,0 +1,101 @@
+N,instance,solver_label,source_dataset,solver_raw,K_exact
+150,0,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),59.0
+150,0,QA-Base,qa_base_ba_main,QA-Base,59.0
+150,0,SA-Max,sa_all,SA-Max,59.0
+150,0,SA-Recovery 10k,sa_recovery_n150_10k_remaining,"SA-Recovery(10000r,10000s)",59.0
+150,0,SA-Recovery 50k,sa_recovery_n150_50k_remaining,"SA-Recovery(50000r,10000s)",59.0
+150,1,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),64.0
+150,1,QA-Base,qa_base_ba_main,QA-Base,64.0
+150,1,SA-Max,sa_all,SA-Max,64.0
+150,1,SA-Recovery 10k,sa_recovery_n150_10k_remaining,"SA-Recovery(10000r,10000s)",64.0
+150,1,SA-Recovery 50k,sa_recovery_n150_50k_remaining,"SA-Recovery(50000r,10000s)",64.0
+150,2,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),60.0
+150,2,QA-Base,qa_base_ba_main,QA-Base,60.0
+150,2,SA-Max,sa_all,SA-Max,60.0
+150,2,SA-Recovery 10k,sa_recovery_n150_10k_remaining,"SA-Recovery(10000r,10000s)",60.0
+150,2,SA-Recovery 50k,sa_recovery_n150_50k_remaining,"SA-Recovery(50000r,10000s)",60.0
+150,3,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),60.0
+150,3,QA-Base,qa_base_ba_main,QA-Base,60.0
+150,3,SA-Max,sa_all,SA-Max,60.0
+150,3,SA-Recovery 10k,sa_recovery_n150_10k_remaining,"SA-Recovery(10000r,10000s)",60.0
+150,3,SA-Recovery 50k,sa_recovery_n150_50k_remaining,"SA-Recovery(50000r,10000s)",60.0
+150,4,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),61.0
+150,4,QA-Base,qa_base_ba_main,QA-Base,61.0
+150,4,SA-Max,sa_all,SA-Max,61.0
+150,4,SA-Recovery 10k,sa_recovery_n150_10k_remaining,"SA-Recovery(10000r,10000s)",61.0
+150,4,SA-Recovery 50k,sa_recovery_n150_50k_remaining,"SA-Recovery(50000r,10000s)",61.0
+150,5,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),58.0
+150,5,QA-Base,qa_base_ba_main,QA-Base,58.0
+150,5,SA-Max,sa_all,SA-Max,58.0
+150,5,SA-Recovery 10k,sa_recovery_n150_10k_remaining,"SA-Recovery(10000r,10000s)",58.0
+150,5,SA-Recovery 50k,sa_recovery_n150_50k_remaining,"SA-Recovery(50000r,10000s)",58.0
+150,6,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),64.0
+150,6,QA-Base,qa_base_ba_main,QA-Base,64.0
+150,6,SA-Max,sa_all,SA-Max,64.0
+150,6,SA-Recovery 10k,sa_recovery_n150_10k_remaining,"SA-Recovery(10000r,10000s)",64.0
+150,6,SA-Recovery 50k,sa_recovery_n150_50k_remaining,"SA-Recovery(50000r,10000s)",64.0
+150,7,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),70.0
+150,7,QA-Base,qa_base_ba_main,QA-Base,70.0
+150,7,SA-Max,sa_all,SA-Max,70.0
+150,7,SA-Recovery 10k,sa_recovery_n150_10k_remaining,"SA-Recovery(10000r,10000s)",70.0
+150,7,SA-Recovery 50k,sa_recovery_n150_50k_remaining,"SA-Recovery(50000r,10000s)",70.0
+150,8,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),67.0
+150,8,QA-Base,qa_base_ba_main,QA-Base,67.0
+150,8,SA-Max,sa_all,SA-Max,67.0
+150,8,SA-Recovery 10k,sa_recovery_n150_10k_remaining,"SA-Recovery(10000r,10000s)",67.0
+150,8,SA-Recovery 50k,sa_recovery_n150_50k_remaining,"SA-Recovery(50000r,10000s)",67.0
+150,9,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),65.0
+150,9,QA-Base,qa_base_ba_main,QA-Base,65.0
+150,9,SA-Max,sa_all,SA-Max,65.0
+150,9,SA-Recovery 10k,sa_recovery_n150_10k_remaining,"SA-Recovery(10000r,10000s)",65.0
+150,9,SA-Recovery 50k,sa_recovery_n150_50k_remaining,"SA-Recovery(50000r,10000s)",65.0
+150,10,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),61.0
+150,10,QA-Base,qa_base_ba_main,QA-Base,61.0
+150,10,SA-Max,sa_all,SA-Max,61.0
+150,10,SA-Recovery 10k,sa_recovery_n150_10k_pilot,"SA-Recovery(10000r,10000s)",61.0
+150,10,SA-Recovery 50k,sa_recovery_n150_50k,"SA-Recovery(50000r,10000s)",61.0
+150,11,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),62.0
+150,11,QA-Base,qa_base_ba_main,QA-Base,62.0
+150,11,SA-Max,sa_all,SA-Max,62.0
+150,11,SA-Recovery 10k,sa_recovery_n150_10k_pilot,"SA-Recovery(10000r,10000s)",62.0
+150,11,SA-Recovery 50k,sa_recovery_n150_50k,"SA-Recovery(50000r,10000s)",62.0
+150,12,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),69.0
+150,12,QA-Base,qa_base_ba_main,QA-Base,69.0
+150,12,SA-Max,sa_all,SA-Max,69.0
+150,12,SA-Recovery 10k,sa_recovery_n150_10k_pilot,"SA-Recovery(10000r,10000s)",69.0
+150,12,SA-Recovery 50k,sa_recovery_n150_50k,"SA-Recovery(50000r,10000s)",69.0
+150,13,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),66.0
+150,13,QA-Base,qa_base_ba_main,QA-Base,66.0
+150,13,SA-Max,sa_all,SA-Max,66.0
+150,13,SA-Recovery 10k,sa_recovery_n150_10k_remaining,"SA-Recovery(10000r,10000s)",66.0
+150,13,SA-Recovery 50k,sa_recovery_n150_50k_remaining,"SA-Recovery(50000r,10000s)",66.0
+150,14,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),60.0
+150,14,QA-Base,qa_base_ba_main,QA-Base,60.0
+150,14,SA-Max,sa_all,SA-Max,60.0
+150,14,SA-Recovery 10k,sa_recovery_n150_10k_remaining,"SA-Recovery(10000r,10000s)",60.0
+150,14,SA-Recovery 50k,sa_recovery_n150_50k_remaining,"SA-Recovery(50000r,10000s)",60.0
+150,15,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),66.0
+150,15,QA-Base,qa_base_ba_main,QA-Base,66.0
+150,15,SA-Max,sa_all,SA-Max,66.0
+150,15,SA-Recovery 10k,sa_recovery_n150_10k_pilot,"SA-Recovery(10000r,10000s)",66.0
+150,15,SA-Recovery 50k,sa_recovery_n150_50k,"SA-Recovery(50000r,10000s)",66.0
+150,16,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),67.0
+150,16,QA-Base,qa_base_ba_main,QA-Base,67.0
+150,16,SA-Max,sa_all,SA-Max,67.0
+150,16,SA-Recovery 10k,sa_recovery_n150_10k_pilot,"SA-Recovery(10000r,10000s)",67.0
+150,16,SA-Recovery 50k,sa_recovery_n150_50k,"SA-Recovery(50000r,10000s)",67.0
+150,17,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),65.0
+150,17,QA-Base,qa_base_ba_main,QA-Base,65.0
+150,17,SA-Max,sa_all,SA-Max,65.0
+150,17,SA-Recovery 10k,sa_recovery_n150_10k_remaining,"SA-Recovery(10000r,10000s)",65.0
+150,17,SA-Recovery 50k,sa_recovery_n150_50k_remaining,"SA-Recovery(50000r,10000s)",65.0
+150,18,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),68.0
+150,18,QA-Base,qa_base_ba_main,QA-Base,68.0
+150,18,SA-Max,sa_all,SA-Max,68.0
+150,18,SA-Recovery 10k,sa_recovery_n150_10k_remaining,"SA-Recovery(10000r,10000s)",68.0
+150,18,SA-Recovery 50k,sa_recovery_n150_50k_remaining,"SA-Recovery(50000r,10000s)",68.0
+150,19,DC-OSQA,qa_inhomo_all,DC-Offset(s=0.1),62.0
+150,19,QA-Base,qa_base_ba_main,QA-Base,62.0
+150,19,SA-Max,sa_all,SA-Max,62.0
+150,19,SA-Recovery 10k,sa_recovery_n150_10k_remaining,"SA-Recovery(10000r,10000s)",62.0
+150,19,SA-Recovery 50k,sa_recovery_n150_50k_remaining,"SA-Recovery(50000r,10000s)",62.0

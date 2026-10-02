@@ -1,0 +1,11 @@
+Graph_Family_ID,Graph_Type,N,Graph_M,Graph_M_Semantics,Instance,K_exact,Edges,Graph_Seed,Family_Method,Family_Distance,Family_Threshold,Family_Threshold_Rule
+er_connected_nominal_k4,ER,150,2,connected_ER_nominal_mean_degree_4,0,81.0,322.0,250042.0,complete_linkage,Hamming,15.0,0.1*N
+er_connected_nominal_k4,ER,150,2,connected_ER_nominal_mean_degree_4,1,82.0,325.0,350043.0,complete_linkage,Hamming,15.0,0.1*N
+er_connected_nominal_k4,ER,150,2,connected_ER_nominal_mean_degree_4,2,85.0,346.0,550044.0,complete_linkage,Hamming,15.0,0.1*N
+er_connected_nominal_k4,ER,150,2,connected_ER_nominal_mean_degree_4,3,82.0,343.0,4550045.0,complete_linkage,Hamming,15.0,0.1*N
+er_connected_nominal_k4,ER,150,2,connected_ER_nominal_mean_degree_4,4,80.0,332.0,1750046.0,complete_linkage,Hamming,15.0,0.1*N
+er_connected_nominal_k4,ER,150,2,connected_ER_nominal_mean_degree_4,5,79.0,297.0,1850047.0,complete_linkage,Hamming,15.0,0.1*N
+er_connected_nominal_k4,ER,150,2,connected_ER_nominal_mean_degree_4,6,82.0,303.0,2050048.0,complete_linkage,Hamming,15.0,0.1*N
+er_connected_nominal_k4,ER,150,2,connected_ER_nominal_mean_degree_4,7,79.0,300.0,2550049.0,complete_linkage,Hamming,15.0,0.1*N
+er_connected_nominal_k4,ER,150,2,connected_ER_nominal_mean_degree_4,8,82.0,304.0,350050.0,complete_linkage,Hamming,15.0,0.1*N
+er_connected_nominal_k4,ER,150,2,connected_ER_nominal_mean_degree_4,9,79.0,307.0,1250051.0,complete_linkage,Hamming,15.0,0.1*N

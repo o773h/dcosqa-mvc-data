@@ -1,0 +1,101 @@
+instance,A,B
+0,DC-OSQA,SA-Max
+1,DC-OSQA,SA-Max
+2,DC-OSQA,SA-Max
+3,DC-OSQA,SA-Max
+4,DC-OSQA,SA-Max
+5,DC-OSQA,SA-Max
+6,DC-OSQA,SA-Max
+7,DC-OSQA,SA-Max
+8,DC-OSQA,SA-Max
+9,DC-OSQA,SA-Max
+10,DC-OSQA,SA-Max
+11,DC-OSQA,SA-Max
+12,DC-OSQA,SA-Max
+13,DC-OSQA,SA-Max
+14,DC-OSQA,SA-Max
+15,DC-OSQA,SA-Max
+16,DC-OSQA,SA-Max
+17,DC-OSQA,SA-Max
+18,DC-OSQA,SA-Max
+19,DC-OSQA,SA-Max
+0,DC-OSQA,SA-Recovery 10k
+1,DC-OSQA,SA-Recovery 10k
+2,DC-OSQA,SA-Recovery 10k
+3,DC-OSQA,SA-Recovery 10k
+4,DC-OSQA,SA-Recovery 10k
+5,DC-OSQA,SA-Recovery 10k
+6,DC-OSQA,SA-Recovery 10k
+7,DC-OSQA,SA-Recovery 10k
+8,DC-OSQA,SA-Recovery 10k
+9,DC-OSQA,SA-Recovery 10k
+10,DC-OSQA,SA-Recovery 10k
+11,DC-OSQA,SA-Recovery 10k
+12,DC-OSQA,SA-Recovery 10k
+13,DC-OSQA,SA-Recovery 10k
+14,DC-OSQA,SA-Recovery 10k
+15,DC-OSQA,SA-Recovery 10k
+16,DC-OSQA,SA-Recovery 10k
+17,DC-OSQA,SA-Recovery 10k
+18,DC-OSQA,SA-Recovery 10k
+19,DC-OSQA,SA-Recovery 10k
+0,DC-OSQA,SA-Recovery 50k
+1,DC-OSQA,SA-Recovery 50k
+2,DC-OSQA,SA-Recovery 50k
+3,DC-OSQA,SA-Recovery 50k
+4,DC-OSQA,SA-Recovery 50k
+5,DC-OSQA,SA-Recovery 50k
+6,DC-OSQA,SA-Recovery 50k
+7,DC-OSQA,SA-Recovery 50k
+8,DC-OSQA,SA-Recovery 50k
+9,DC-OSQA,SA-Recovery 50k
+10,DC-OSQA,SA-Recovery 50k
+11,DC-OSQA,SA-Recovery 50k
+12,DC-OSQA,SA-Recovery 50k
+13,DC-OSQA,SA-Recovery 50k
+14,DC-OSQA,SA-Recovery 50k
+15,DC-OSQA,SA-Recovery 50k
+16,DC-OSQA,SA-Recovery 50k
+17,DC-OSQA,SA-Recovery 50k
+18,DC-OSQA,SA-Recovery 50k
+19,DC-OSQA,SA-Recovery 50k
+0,SA-Recovery 10k,SA-Recovery 50k
+1,SA-Recovery 10k,SA-Recovery 50k
+2,SA-Recovery 10k,SA-Recovery 50k
+3,SA-Recovery 10k,SA-Recovery 50k
+4,SA-Recovery 10k,SA-Recovery 50k
+5,SA-Recovery 10k,SA-Recovery 50k
+6,SA-Recovery 10k,SA-Recovery 50k
+7,SA-Recovery 10k,SA-Recovery 50k
+8,SA-Recovery 10k,SA-Recovery 50k
+9,SA-Recovery 10k,SA-Recovery 50k
+10,SA-Recovery 10k,SA-Recovery 50k
+11,SA-Recovery 10k,SA-Recovery 50k
+12,SA-Recovery 10k,SA-Recovery 50k
+13,SA-Recovery 10k,SA-Recovery 50k
+14,SA-Recovery 10k,SA-Recovery 50k
+15,SA-Recovery 10k,SA-Recovery 50k
+16,SA-Recovery 10k,SA-Recovery 50k
+17,SA-Recovery 10k,SA-Recovery 50k
+18,SA-Recovery 10k,SA-Recovery 50k
+19,SA-Recovery 10k,SA-Recovery 50k
+0,SA-Max,SA-Recovery 50k
+1,SA-Max,SA-Recovery 50k
+2,SA-Max,SA-Recovery 50k
+3,SA-Max,SA-Recovery 50k
+4,SA-Max,SA-Recovery 50k
+5,SA-Max,SA-Recovery 50k
+6,SA-Max,SA-Recovery 50k
+7,SA-Max,SA-Recovery 50k
+8,SA-Max,SA-Recovery 50k
+9,SA-Max,SA-Recovery 50k
+10,SA-Max,SA-Recovery 50k
+11,SA-Max,SA-Recovery 50k
+12,SA-Max,SA-Recovery 50k
+13,SA-Max,SA-Recovery 50k
+14,SA-Max,SA-Recovery 50k
+15,SA-Max,SA-Recovery 50k
+16,SA-Max,SA-Recovery 50k
+17,SA-Max,SA-Recovery 50k
+18,SA-Max,SA-Recovery 50k
+19,SA-Max,SA-Recovery 50k

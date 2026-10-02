@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset or its analysis code, please cite this release and the accompanying preprint."
+title: "Data and analysis code for: Degree-conditioned anneal offsets reshape certified-optimum sampling for minimum vertex cover"
+type: dataset
+authors:
+  - family-names: Kang
+    given-names: Jiwan
+    email: jw_kang@yonsei.ac.kr
+    affiliation: Department of Quantum Information, Yonsei University
+  - family-names: Han
+    given-names: Namshik
+    email: namshik.han@yonsei.ac.kr
+    affiliation: Department of Quantum Information, Yonsei University
+version: 1.0.0
+date-released: 2026-10-02
+license: CC-BY-4.0
+repository-code: "https://github.com/o773h/dcosqa-mvc-data"
